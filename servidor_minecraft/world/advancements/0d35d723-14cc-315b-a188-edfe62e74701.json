@@ -1,0 +1,23 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-06 18:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-06 18:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_hills": "2024-12-06 18:56:07 +0000",
+      "minecraft:dripstone_caves": "2024-12-06 18:56:32 +0000",
+      "minecraft:plains": "2024-12-06 18:54:46 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,84 @@
+[18:51:26] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[18:51:26] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 17
+	- minecraft 1.20.1
+[18:51:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Ethereal-Overhaul/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:51:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:51:32] [main/INFO]: Loaded 7 recipes
+[18:51:32] [main/INFO]: Loaded 1271 advancements
+[18:51:33] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[18:51:33] [Server thread/INFO]: Loading properties
+[18:51:33] [Server thread/INFO]: Default game type: SURVIVAL
+[18:51:33] [Server thread/INFO]: Generating keypair
+[18:51:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:51:33] [Server thread/INFO]: Using epoll channel type
+[18:51:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:51:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:51:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:51:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:51:33] [Server thread/INFO]: Preparing level "world"
+[18:51:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:51:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:51:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:51:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:51:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:51:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:51:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:51:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:51:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:51:40] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[18:51:40] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[18:51:40] [Server thread/INFO]: Time elapsed: 4740 ms
+[18:51:40] [Server thread/INFO]: Done (7.341s)! For help, type "help"
+[18:51:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@3f8cfd2d[id=<null>,name=EliAmarillo,properties={},legacy=false] (/127.217.87.178:60823) lost connection: Disconnected
+[18:51:56] [Server thread/INFO]: EliAmarillo[/127.217.87.178:52431] logged in with entity id 269 at (5.458163382053081, 64.0, 9.287818155539501)
+[18:51:56] [Server thread/INFO]: EliAmarillo joined the game
+[18:52:09] [Server thread/INFO]: [EliAmarillo: Set the time to 1000]
+[18:52:35] [Server thread/INFO]: [EliAmarillo: Set own game mode to Creative Mode]
+[18:54:45] [Server thread/INFO]: Incognito_6915[/127.175.217.156:46403] logged in with entity id 744 at (-7.5, 66.0, -6.5)
+[18:54:45] [Server thread/INFO]: Incognito_6915 joined the game
+[18:55:03] [Server thread/INFO]: [EliAmarillo: Teleported EliAmarillo to Incognito_6915]
+[18:55:19] [Server thread/INFO]: [Not Secure] <Incognito_6915> ayudame jesus
+[18:55:29] [Server thread/INFO]: [Not Secure] <Incognito_6915> me pego un lagazo
+[18:55:37] [Server thread/INFO]: Incognito_6915 was slain by EliAmarillo
+[18:55:44] [Server thread/INFO]: [Not Secure] <Incognito_6915> jueputa
+[18:55:46] [Server thread/INFO]: [Not Secure] <EliAmarillo> ya como te va?
+[18:55:53] [Server thread/INFO]: [Not Secure] <Incognito_6915> ps bien
+[18:55:54] [Server thread/INFO]: [EliAmarillo: Teleported EliAmarillo to Incognito_6915]
+[18:56:03] [Server thread/INFO]: [Not Secure] <Incognito_6915> me va mal por la laptop
+[18:56:12] [Server thread/INFO]: [Not Secure] <EliAmarillo> ya, faltan los mods dee optimizacion
+[18:56:15] [Server thread/INFO]: [Not Secure] <Incognito_6915> es crossplay?
+[18:56:24] [Server thread/INFO]: [Not Secure] <EliAmarillo> solo java
+[18:56:28] [Server thread/INFO]: [Not Secure] <Incognito_6915> diablo
+[18:56:44] [Server thread/INFO]: [Not Secure] <Incognito_6915> haran spawn no?
+[18:56:49] [Server thread/INFO]: [Not Secure] <EliAmarillo> lo malo de tener servers así
+[18:56:58] [Server thread/INFO]: [Not Secure] <EliAmarillo> pues si, igual hay que reiniciar el mundo
+[18:57:10] [Server thread/INFO]: [Not Secure] <EliAmarillo> por los mods de generación de mundo
+[18:57:14] [Server thread/INFO]: [Not Secure] <Incognito_6915> ah ya
+[18:57:23] [Server thread/INFO]: [Not Secure] <Incognito_6915> ps ta bien
+[18:57:30] [Server thread/INFO]: [EliAmarillo: Teleported EliAmarillo to 0.500000, 0.000000, 0.500000]
+[18:57:54] [Server thread/INFO]: [Not Secure] <Incognito_6915> bueno bye
+[18:58:04] [Server thread/INFO]: [Not Secure] <Incognito_6915> cuantos mods son'
+[18:58:04] [Server thread/INFO]: [Not Secure] <EliAmarillo> bay
+[18:58:12] [Server thread/INFO]: [Not Secure] <EliAmarillo> no se, es un pack de mods
+[18:58:21] [Server thread/INFO]: [Not Secure] <Incognito_6915> ta bien
+[18:58:23] [Server thread/INFO]: Incognito_6915 lost connection: Disconnected
+[18:58:23] [Server thread/INFO]: Incognito_6915 left the game
+[18:59:08] [Server thread/INFO]: [EliAmarillo: Teleported EliAmarillo to 0.420000, -60.000000, 0.420000]
+[18:59:19] [Server thread/INFO]: EliAmarillo was killed
+[18:59:19] [Server thread/INFO]: [EliAmarillo: Killed EliAmarillo]
+[18:59:30] [Server thread/INFO]: EliAmarillo lost connection: Disconnected
+[18:59:30] [Server thread/INFO]: EliAmarillo left the game
+[18:59:44] [Server thread/INFO]: Stopping the server
+[18:59:45] [Server thread/INFO]: Stopping server
+[18:59:45] [Server thread/INFO]: Saving players
+[18:59:45] [Server thread/INFO]: Saving worlds
+[18:59:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:59:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:59:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:59:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:59:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:59:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:59:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
